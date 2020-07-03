@@ -51,6 +51,7 @@ li a:hover {
 .top-wrapper {
   padding: 200px 0px 100px 0px;
   background-image: url(background\ \(2\).png);
+  background-color: #272727;	
   background-size: cover;
   color: rgb(245, 243, 243);
   text-align: center;
